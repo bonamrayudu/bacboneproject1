@@ -1,0 +1,58 @@
+/* .table{
+   
+    font-size: 30px;
+    flex-direction: ;
+}
+#fname{
+    
+    
+} */
+h1{
+    color: RED
+
+}
+   
+
+.hi{
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+
+}
+#btn{
+    background-color: green;
+    
+    font-size: larger;
+
+}
+.hello{
+    color:black;
+    
+
+   
+
+}
+#btn1{
+    background-color: orange;
+    color: black;
+    font-size: larger;
+
+}
+#btn2{
+    background-color: red;
+    color: black;
+    font-size: larger;
+
+}
+#btn3{
+    background-color: orange;
+    color: black;
+    font-size: larger;
+
+}
+#btn4{
+    background-color: green;
+    color: black;
+    font-size: larger;
+
+}
